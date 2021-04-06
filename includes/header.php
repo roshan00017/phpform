@@ -16,7 +16,7 @@ include_once 'includes/session.php'?>
 
     <link rel="stylesheet" href="css/site.css" />
     
-    <title>Attendance - <?php echo $title ?></title>
+    <title>Home - <?php echo $title ?></title>
   </head>
   <body>
     <nav class="navbar navbar-dark bg-dark" style="background-color: #e3f2fd;">
